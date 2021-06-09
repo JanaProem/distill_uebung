@@ -1,0 +1,14 @@
+name: "distill_uebung"
+title: "Uebung"
+description: |
+  Übung
+output_dir: "_site"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "KI"
+      href: Readme.html
+output: distill::distill_article
