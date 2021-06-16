@@ -1,0 +1,29 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website\n",
+      "author": [],
+      "contents": "\r\nThis site was made with Distill as an exercise of the seminar “Infovisualisierung”.\r\nAuthor: Jana Prömper (Matr.-Nr.: 380165)\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-06-16T12:27:20+02:00"
+    },
+    {
+      "path": "homework.html",
+      "title": "Homework",
+      "description": "On this page you can see all of my visualizations in the order of their creation!\n",
+      "author": [],
+      "contents": "\r\nMean temperature per month in a ridgeline plot\r\n\r\nGlobal surface temperature change\r\nDevelopment from 2000 to 2016 in violin plot\r\n\r\nAnimated development from 1880 to 2016\r\nHere you can see my first attempt at a gif! \r\nTop 10 highest GDP per capita from 1952 to 2007\r\n\r\nComparison of films with the bachdel review “ok” vs. “men” over the years\r\n\r\nGerman parliamentary elections of 2017\r\nThis visualization displays the results of the preliminary elections of 2017.\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-06-16T12:27:20+02:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Übung",
+      "description": "Welcome to the website. Take a look around and get an insight in the visualizations I created. I hope you enjoy them!\n",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-06-16T12:27:21+02:00"
+    }
+  ],
+  "collections": []
+}

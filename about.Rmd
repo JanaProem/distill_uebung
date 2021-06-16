@@ -2,9 +2,12 @@
 title: "About this site"
 description: |
   Some additional details about the website
+site: distill::distill_website
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+This site was made with Distill as an exercise of the seminar "Infovisualisierung".  
+Author: Jana Prömper (Matr.-Nr.: 380165)

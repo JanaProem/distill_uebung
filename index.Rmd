@@ -1,7 +1,7 @@
 ---
 title: "Übung"
 description: |
-  Welcome to the website. I hope you enjoy it!
+  Welcome to the website. Take a look around and get an insight in the visualizations I created. I hope you enjoy them!
 site: distill::distill_website
 ---
 
