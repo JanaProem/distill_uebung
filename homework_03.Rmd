@@ -1,0 +1,12 @@
+---
+title: "Top 10 highest GDP per capita from 1952 to 2007"
+description: |
+  Homework nr. 03
+site: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![](pics/03_highestGDPpercap.gif)

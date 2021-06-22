@@ -9,24 +9,4 @@ site: distill::distill_website
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# Mean temperature per month in a ridgeline plot
-![](pics/01_mean_temp_per_month.png)
 
-# Global surface temperature change 
-### Development from 2000 to 2016 in violin plot
-![](pics/02.1_mean_temp_change.png)
-
-### Animated development from 1880 to 2016
-Here you can see my first attempt at a gif!
-![](pics/02.2_mean_temp_change.gif)
-
-# Top 10 highest GDP per capita from 1952 to 2007
-![](pics/03_highestGDPpercap.gif)
-
-# Comparison of films with the bachdel review "ok" vs. "men" over the years
-![](pics/04_bechdel.png)
-
-# German parliamentary elections of 2017
-This visualization displays the results of the preliminary elections of 2017.
-
-![](pics/05_Wahlergebnisse_DE_2017.PNG)

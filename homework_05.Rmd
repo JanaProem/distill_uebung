@@ -1,0 +1,14 @@
+---
+title: "German parliamentary elections of 2017"
+description: |
+  Homework nr. 05
+site: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+This visualization displays the results of the preliminary elections of 2017.
+
+![](pics/05_Wahlergebnisse_DE_2017.PNG)

@@ -1,0 +1,17 @@
+---
+title: "Global surface temperature change"
+description: |
+  Homework nr. 02
+site: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Development from 2000 to 2016 in violin plot
+![](pics/02.1_mean_temp_change.png)
+
+## Animated development from 1880 to 2016
+This is my first attempt at a gif!  
+![](pics/02.2_mean_temp_change.gif)

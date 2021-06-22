@@ -1,0 +1,12 @@
+---
+title: "Mean temperature per month in a ridgeline plot"
+description: |
+  Homework nr. 01
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![](pics/01_mean_temp_per_month.png)

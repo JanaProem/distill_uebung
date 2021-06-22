@@ -1,0 +1,12 @@
+---
+title: "Comparison of films with the bachdel review 'ok' vs. 'men' over the years"
+description: |
+  Homework nr. 04
+site: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![](pics/04_bechdel.png)
