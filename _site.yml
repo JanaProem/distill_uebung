@@ -1,7 +1,5 @@
 name: "distill_uebung"
-title: "Uebung"
-description: |
-  Übung
+title: "Distill Uebung"
 output_dir: "_site"
 navbar:
   right:

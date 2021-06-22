@@ -3,6 +3,8 @@ title: "Global surface temperature change"
 description: |
   Homework nr. 02
 site: distill::distill_article
+toc: true
+toc_depth: 2
 ---
 
 ```{r setup, include=FALSE}
